@@ -1,7 +1,5 @@
 # ♻️ Deteksi Sampah Anorganik dengan Computer Vision
 
-♻️ Deteksi Sampah Anorganik dengan Computer Vision
-
 **Deteksi Sampah Anorganik**
 Proyek ini bertujuan untuk membangun sistem deteksi otomatis untuk sampah anorganik menggunakan teknologi computer vision dan machine learning. Sistem ini diharapkan dapat membantu proses pengelolaan sampah dengan cara mengidentifikasi berbagai jenis sampah anorganik secara real-time dari gambar input.
 
