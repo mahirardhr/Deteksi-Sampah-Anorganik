@@ -7,7 +7,7 @@ Proyek ini bertujuan untuk membangun sistem deteksi otomatis untuk sampah anorga
 Dataset yang digunakan berasal dari Roboflow, yang berisi gambar-gambar berbagai jenis sampah anorganik seperti plastik, kaleng, botol, dan sejenisnya. Dataset ini telah melalui proses pelabelan yang akurat dan siap digunakan untuk pelatihan model deteksi objek.
 
 **🔗 Link Dataset:**
-👉 Sampah Organik dan Anorganik — Roboflow
+👉 Sampah Organik dan Anorganik — [(https://universe.roboflow.com/siscer-project/sampah-organik-dan-anorganik/dataset/3#)
 
 **🛠 Teknologi yang Digunakan**
 🐍 Python – Bahasa pemrograman utama
