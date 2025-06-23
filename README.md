@@ -1,19 +1,25 @@
-# Deteksi-Sampah-Anorganik
+# ♻️ Deteksi Sampah Anorganik dengan Computer Vision
+
+♻️ Deteksi Sampah Anorganik dengan Computer Vision
 
 **Deteksi Sampah Anorganik**
-Proyek ini bertujuan untuk membangun sistem deteksi otomatis untuk sampah anorganik menggunakan teknologi computer vision dan machine learning. Sistem ini dapat membantu dalam proses pengelolaan sampah dengan mengidentifikasi jenis-jenis sampah anorganik secara real-time dari gambar atau video.
+Proyek ini bertujuan untuk membangun sistem deteksi otomatis untuk sampah anorganik menggunakan teknologi computer vision dan machine learning. Sistem ini diharapkan dapat membantu proses pengelolaan sampah dengan cara mengidentifikasi berbagai jenis sampah anorganik secara real-time dari gambar input.
 
-**Dataset**
-Dataset yang digunakan berasal dari Roboflow, yang berisi gambar-gambar berbagai jenis sampah anorganik seperti plastik, kaleng, botol, dan sejenisnya. Dataset telah melalui proses pelabelan yang rapi agar dapat digunakan untuk training model deteksi objek.
+**🧪 Dataset**
+Dataset yang digunakan berasal dari Roboflow, yang berisi gambar-gambar berbagai jenis sampah anorganik seperti plastik, kaleng, botol, dan sejenisnya. Dataset ini telah melalui proses pelabelan yang akurat dan siap digunakan untuk pelatihan model deteksi objek.
 
-**Teknologi yang Digunakan**
-1. Python
-2. Roboflow untuk dataset dan preprocessing
-3. YOLOv8 (atau model deteksi objek lain yang digunakan)
-4. OpenCV untuk pengolahan gambar
-5. Google Colab / Jupyter Notebook untuk training dan evaluasi
+**🔗 Link Dataset:**
+👉 Sampah Organik dan Anorganik — Roboflow
 
-**Tujuan**
-1. Mengembangkan model deteksi objek untuk mengenali sampah anorganik.
-2. Mengklasifikasikan jenis sampah anorganik dari gambar.
-3. Memberikan kontribusi terhadap pengelolaan sampah cerdas berbasis teknologi.
+**🛠 Teknologi yang Digunakan**
+🐍 Python – Bahasa pemrograman utama
+🧪 Roboflow – Untuk labeling dataset dan augmentasi
+🔎 YOLOv8 – Model deteksi objek
+☁️ Google Colab / Jupyter Notebook – Untuk training dan evaluasi model
+
+**📈 Akurasi Model**
+mAP@0.5: ± 99.5%
+Precision: ± 	99.69%
+Recall: ± 	99.94%
+
+Model menunjukkan performa yang baik dalam membedakan jenis-jenis sampah anorganik pada gambar dengan latar dan kondisi cahaya yang bervariasi.
